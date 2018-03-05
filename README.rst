@@ -10,10 +10,10 @@ Builders is a ligtweight test data generation framework made to ease the pain of
 .. image:: https://readthedocs.org/projects/builders/badge/?version=latest
         :target: https://readthedocs.org/projects/builders/?badge=latest
         :alt: Documentation Status
-.. image:: https://pypip.in/v/builders/badge.png
+.. image:: https://img.shields.io/pypi/v/builders.svg
         :alt: Release Status
         :target: https://pypi.python.org/pypi/builders
-.. image:: https://pypip.in/d/builders/badge.png
+.. image:: https://img.shields.io/pypi/dm/builders.svg
         :alt: Downloads
         :target: https://pypi.python.org/pypi/builders
 
